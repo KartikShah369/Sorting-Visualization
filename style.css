@@ -1,8 +1,14 @@
+
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to left ,rgb(0, 0, 128), rgb(63, 0, 63));
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 20px;
     padding: 0 20px 30px 0;
     line-height: 1.4;
+}
+.btn{
+    border-color: whitesmoke;
+    color: white;
 }
 .flex-container{
     margin-top: 20px;
